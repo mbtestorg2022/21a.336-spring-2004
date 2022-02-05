@@ -4,31 +4,299 @@ title: Calendar
 uid: 98dec191-0f0e-9302-8649-2d860f3a2a32
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Introduction**{{< /td-colspan >}} |||
-| 1 | Introduction: Why is Everyone Talking About Globalization? | &nbsp; |
-| 2 | The Cultural Homogenization Debates: Hip Hop in Japan  {{< br >}}  {{< br >}}Guest Lecturer: Prof. Ian Condry | &nbsp; |
-| 3 | The Economic and Political Debates | &nbsp; |
-| {{< td-colspan 3 >}}**Part 1: Histories of the Global**{{< /td-colspan >}} |||
-| 4-5 | Global Histories Before Capitalism | &nbsp; |
-| 6 | European Colonialism | &nbsp; |
-| 7 | European Economic Expansion | &nbsp; |
-| 8 | The Rise of Consumer Society, the Welfare State and the Third World | &nbsp; |
-| 9 | Film: _Modern Times_ | Paper due |
-| {{< td-colspan 3 >}}**Part 2: Investigating Contemporary Globalization**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**A. Transformations - Economic**{{< /td-colspan >}} |||
-| 10 | Deindustrialization and the Growth of Service Industries | &nbsp; |
-| 11-12 | Film: _Roger and Me._ The Rise of High Tech | Topic for final paper due (Ses #12) |
-| 13 | New Industrialization in the "Third World" | &nbsp; |
-| 14 | Theorizing the Economic Transformation | &nbsp; |
-| {{< td-colspan 3 >}}**B. Transformations - Political and Geographic**{{< /td-colspan >}} |||
-| 15 | The New Post-Cold War Geography | &nbsp; |
-| 16-17 | Migrations | Paper due |
-| {{< td-colspan 3 >}}**C. Transformations - Culture, Media and Technology**{{< /td-colspan >}} |||
-| 18 | Media in Motion | &nbsp; |
-| 19 | Reworking Networks: From Activism to the Mafia | &nbsp; |
-| 20 | Biotech and the New Science | &nbsp; |
-| 21-23 | Student Presentations | Paper due |
-| 24 | Judging Globalization in a post-Iraq War Era | &nbsp; |
-| 25 | Conclusion | Revised final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Why is Everyone Talking About Globalization?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Cultural Homogenization Debates: Hip Hop in Japan  
+  
+Guest Lecturer: Prof. Ian Condry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Economic and Political Debates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Histories of the Global**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Global Histories Before Capitalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+European Colonialism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+European Economic Expansion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Rise of Consumer Society, the Welfare State and the Third World
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Modern Times_
+{{< tdclose >}}
+{{< tdopen >}}
+Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Investigating Contemporary Globalization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**A. Transformations - Economic**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Deindustrialization and the Growth of Service Industries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Roger and Me._ The Rise of High Tech
+{{< tdclose >}}
+{{< tdopen >}}
+Topic for final paper due (Ses #12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+New Industrialization in the "Third World"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Theorizing the Economic Transformation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**B. Transformations - Political and Geographic**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The New Post-Cold War Geography
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+Migrations
+{{< tdclose >}}
+{{< tdopen >}}
+Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**C. Transformations - Culture, Media and Technology**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Media in Motion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Reworking Networks: From Activism to the Mafia
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Biotech and the New Science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-23
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Judging Globalization in a post-Iraq War Era
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Revised final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
